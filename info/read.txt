@@ -1,7 +1,0 @@
-Лендинг digital-агенства 
-
-Формат: #figma 
-Категория: #лендинг
-Язык: #ru
-Техно: HTML, CSS, JavaScript
-Src: https://www.figma.com/file/hfLjSlge8EEeQhCRKGaRby/digital-flow?node-id=0%3A1
